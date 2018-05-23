@@ -1,0 +1,15 @@
+1)
+a) caracter vogais[5]
+b) real alturas[10]
+c) cadeia meses[12]
+
+2)
+a) w[1] = 17
+b) w[4] = 9
+c) w[9] = 95
+d) w[4] = 47
+e) w[5] =
+f) w[6] = 
+g) w[] = 
+h) w[] =
+i) w[] =
